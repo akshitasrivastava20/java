@@ -1,0 +1,21 @@
+package javainput;
+import java.util.Scanner;
+
+public class bitwise {
+    public static void main(String[] args) {
+        Scanner sc=new Scanner(System.in);
+        int a,b;
+        System.out.println("enter two no.s:");
+         a=sc.nextInt();
+         b=sc.nextInt();
+        System.out.println(a|b);
+        System.out.println(a&b);
+        System.out.println(a^b);
+        System.out.println(a >> b);
+        System.out.println(a << b);
+        System.out.println(~ a);
+    }
+
+
+    
+}

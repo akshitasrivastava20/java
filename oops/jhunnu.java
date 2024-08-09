@@ -14,7 +14,7 @@ public class jhunnu {
 }
 class sweety{
     void good(){
-        jhunnu  obj1=new jhunnu();
+        jhunnu obj1=new jhunnu();
         System.out.println(obj1.str);
     }
 }

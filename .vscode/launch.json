@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "passing",
+            "request": "launch",
+            "mainClass": "scope.passing",
+            "projectName": "java_edcd701d"
+        },
+        {
+            "type": "java",
+            "name": "main",
+            "request": "launch",
+            "mainClass": "scope.main",
+            "projectName": "java_edcd701d"
+        },
+        {
+            "type": "java",
             "name": "tunnu",
             "request": "launch",
             "mainClass": "oops.tunnu",

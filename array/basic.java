@@ -10,6 +10,7 @@ public class basic {
         int ages[];
         ages=new int[10];
         int weight[]=new int[10];
+        int marks[]={1,2,3,4,5};
         
 
     }

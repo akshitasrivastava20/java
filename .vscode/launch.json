@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "linearsearch",
+            "request": "launch",
+            "mainClass": "array.linearsearch",
+            "projectName": "java_edcd701d"
+        },
+        {
+            "type": "java",
+            "name": "practiseproblems",
+            "request": "launch",
+            "mainClass": "array.practiseproblems",
+            "projectName": "java_edcd701d"
+        },
+        {
+            "type": "java",
+            "name": "types",
+            "request": "launch",
+            "mainClass": "array.types",
+            "projectName": "java_edcd701d"
+        },
+        {
+            "type": "java",
+            "name": "memory",
+            "request": "launch",
+            "mainClass": "array.memory",
+            "projectName": "java_edcd701d"
+        },
+        {
+            "type": "java",
             "name": "passing",
             "request": "launch",
             "mainClass": "scope.passing",

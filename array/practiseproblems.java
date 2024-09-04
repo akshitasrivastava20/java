@@ -23,11 +23,32 @@ class demoarr{
         System.out.println("max is"+a);
 
     }
+    int pq3(int n){
+        int c=-1;
+        int arr[]={23,43,54,56,78};
+        for(int i=0;i<arr.length;i++){
+            if(arr[i]==n){
+            
+              c=i;
+              break;
+            }
+             }
+             return c;
+
+
+    }
 }
 
 public class practiseproblems {
     public static void main(String[] args) {
         demoarr obj=new demoarr();
-        obj.pq2();
+        int n=54;
+        int q=obj.pq3(n);
+        if(q==-1){
+            System.out.println("element not present");
+        }
+        else{
+            System.out.println("element present at"+q);
+        }
     }
 }

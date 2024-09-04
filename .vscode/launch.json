@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "refrence",
+            "request": "launch",
+            "mainClass": "array2.refrence",
+            "projectName": "java_edcd701d"
+        },
+        {
+            "type": "java",
+            "name": "basic",
+            "request": "launch",
+            "mainClass": "array2.basic",
+            "projectName": "java_edcd701d"
+        },
+        {
+            "type": "java",
             "name": "linearsearch",
             "request": "launch",
             "mainClass": "array.linearsearch",

@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "copyOfRange",
+            "request": "launch",
+            "mainClass": "copyOfRange",
+            "projectName": "java_edcd701d"
+        },
+        {
+            "type": "java",
+            "name": "copyof",
+            "request": "launch",
+            "mainClass": "copyof",
+            "projectName": "java_edcd701d"
+        },
+        {
+            "type": "java",
+            "name": "cloning",
+            "request": "launch",
+            "mainClass": "cloning",
+            "projectName": "java_edcd701d"
+        },
+        {
+            "type": "java",
             "name": "refrence",
             "request": "launch",
             "mainClass": "array2.refrence",

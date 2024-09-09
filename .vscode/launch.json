@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "array2d",
+            "request": "launch",
+            "mainClass": "array2.array2d",
+            "projectName": "java_edcd701d"
+        },
+        {
+            "type": "java",
+            "name": "basic2",
+            "request": "launch",
+            "mainClass": "oops.basic2",
+            "projectName": "java_edcd701d"
+        },
+        {
+            "type": "java",
             "name": "copyOfRange",
             "request": "launch",
             "mainClass": "copyOfRange",

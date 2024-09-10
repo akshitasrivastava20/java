@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "bubblesort",
+            "request": "launch",
+            "mainClass": "array.bubblesort",
+            "projectName": "java_edcd701d"
+        },
+        {
+            "type": "java",
             "name": "array2d",
             "request": "launch",
             "mainClass": "array2.array2d",

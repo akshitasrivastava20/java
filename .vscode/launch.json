@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "factorial",
+            "request": "launch",
+            "mainClass": "recursion.factorial",
+            "projectName": "java_edcd701d"
+        },
+        {
+            "type": "java",
+            "name": "naturalnumbersum",
+            "request": "launch",
+            "mainClass": "recursion.naturalnumbersum",
+            "projectName": "java_edcd701d"
+        },
+        {
+            "type": "java",
+            "name": "printing2",
+            "request": "launch",
+            "mainClass": "recursion.printing2",
+            "projectName": "java_edcd701d"
+        },
+        {
+            "type": "java",
+            "name": "printing",
+            "request": "launch",
+            "mainClass": "recursion.printing",
+            "projectName": "java_edcd701d"
+        },
+        {
+            "type": "java",
             "name": "bubblesort",
             "request": "launch",
             "mainClass": "array.bubblesort",
